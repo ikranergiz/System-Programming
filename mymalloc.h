@@ -1,5 +1,5 @@
+/*Ikra Nergiz!!!*/
 #include <stdio.h>
-/*Ikra Nergiz*/
 typedef struct Info{
     unsigned int size;
     unsigned int isfree;
